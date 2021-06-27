@@ -20,14 +20,14 @@ class CustomerSliderApp extends StatelessWidget {
                 child: Text("hey"),
               )
             ),
-            // Container(
-            //   decoration: BoxDecoration(
-            //     color: Colors.greenAccent,
-            //   ),
-            //   child: Center(
-            //     child: Text("cool app!"),
-            //   ),
-            // )
+            Container(
+              decoration: BoxDecoration(
+                color: Colors.greenAccent,
+              ),
+              child: Center(
+                child: Text("cool app!"),
+              ),
+            )
           ],
         )
       ),
